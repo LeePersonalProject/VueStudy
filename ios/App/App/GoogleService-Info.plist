@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>565204706703-bosl9okmqpru43r2upoegfjai5m2qbcm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.565204706703-bosl9okmqpru43r2upoegfjai5m2qbcm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCiLKBBg2yBeuvId_9bSMOHOeQQprp4GT8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>565204706703</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hanwha.mgr.app.portal</string>
+	<key>PROJECT_ID</key>
+	<string>hanwha-mgr-portal</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hanwha-mgr-portal.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:565204706703:ios:9576a9672a71b5ee1357fa</string>
+	<key>DATABASE_URL</key>
+	<string>https://hanwha-mgr-portal.firebaseio.com</string>
+</dict>
+</plist>

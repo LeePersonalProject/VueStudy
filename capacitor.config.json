@@ -1,0 +1,15 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "tutorial",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+    	"url": "http://localhost:8101",
+    	"cleartext": true
+  	},
+	"plugins": {
+		"PushNotifications": {
+			"presentationOptions": ["badge", "sound", "alert"]
+		}
+	}
+}
